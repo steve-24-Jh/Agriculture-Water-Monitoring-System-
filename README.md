@@ -2,7 +2,9 @@
 
 # Agriculture-Water-Monitoring-System-
 
-# functionality 1 
+# Water Alert System 
+- It triggers the senscors embeded in the ground by checking weather forecast and dry day to make it moister by sending an alter to farmer to water the Land. 
+
 
 # Functionality 2 
 
