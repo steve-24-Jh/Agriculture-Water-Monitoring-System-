@@ -18,8 +18,7 @@ Weather forecast monitoring
 # Irrigation Control System
 - It automates and optimizes the irrigation process to ensure crops receive the right amount of water at the right time.  
 
-# Functionality 6 
-Sensor Health Monitoring: 
+# Sensor Health Monitoring: 
 - Monitor the status of each sensor and notify the farmer when maintenance or replacements are required.
    
  
