@@ -3,10 +3,11 @@
 # Agriculture-Water-Monitoring-System-
 
 # Water Alert System 
-- It triggers the senscors embeded in the ground by checking weather forecast and dry day to make it moister by sending an alter to farmer to water the Land. 
+- It triggers the sensors embeded in the ground by checking weather forecast and dry day to make it moister by sending an alter to farmer to water the Land. 
 
 
-# Functionality 2 
+# Sensor Accuracy
+- Sensor accuracy helps to maintain accurate results through analytics by recording all the injected functions to improve resolve bugs/issues which arise due to any failures. 
 
 # Functionality 3 
 
