@@ -10,6 +10,7 @@
 - Sensor accuracy helps to maintain accurate results through analytics by recording all the injected functions to improve resolve bugs/issues which arise due to any failures. 
 
 # Functionality 3 
+Data visualization
 
 # Functionality 4 
 Weather forecast monitoring
